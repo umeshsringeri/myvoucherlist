@@ -5,30 +5,30 @@
             "providerName": "Central Mall",
             "voucherName": "Ganesh Festival Bonanza",
             "serialNo": "1-123456",
-            "validfrom": "2021/08/15",
-            "validto": "2021/09/14",
-            "voucheramount": "5000.00",
-            "minpurchaseamount": "10000.00"
+            "validFrom": "2021/08/15",
+            "validTo": "2021/09/14",
+            "voucherAmount": "5000.00",
+            "minPurchaseAmount": "10000.00"
         },
         {
             "id": "2",
             "providerName": "Big Bazar",
             "voucherName": "Christmas Festival Bonanza",
             "serialNo": "2-223456",
-            "validfrom": "2021/12/15",
-            "validto": "2022/01/14",
-            "voucheramount": "4000.00",
-            "minpurchaseamount": "8000.00"
+            "validFrom": "2021/12/15",
+            "validTo": "2022/01/14",
+            "voucherAmount": "4000.00",
+            "minPurchaseAmount": "8000.00"
         },
         {
              "id": "1",
             "providerName": "Reliance Trends",
             "voucherName": "Deepavali Festival Bonanza",
             "serialNo": "3-323456",
-            "validfrom": "2021/08/15",
-            "validto": "2021/09/14",
-            "voucheramount": "2000.00",
-            "minpurchaseamount": "5000.00"
+            "validFrom": "2021/08/15",
+            "validTo": "2021/09/14",
+            "voucherAmount": "2000.00",
+            "minPurchaseAmount": "5000.00"
         }
     ]
 }
